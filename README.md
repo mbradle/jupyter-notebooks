@@ -2,7 +2,7 @@
 
 We are developing a number [Jupyter notebooks](https://jupyter.org):
 
-* [polarization.ipynb](http://github.com/mbradle/jupyter-notebooks/Notebooks/polarization.ipynb):  A Jupyter notebook to illustrate polarization in electromagnetic plane waves.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mbradle/jupyter-notebooks/blob/main/Notebooks/polarization.ipynb)
+* [polarization.ipynb](https://raw.githubusercontent.com/mbradle/jupyter-notebooks/main/Notebooks/polarization.ipynb):  A Jupyter notebook to illustrate polarization in electromagnetic plane waves.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mbradle/jupyter-notebooks/blob/main/Notebooks/polarization.ipynb)
 
 You can run the notebooks on [Google Colaboratory](https://colab.research.google.com) by clicking on the Open in Colab badge.  You will need to sign in with your Google account.  Execute the whole notebook by clicking on Run all from the Runtime menu.  You can then change inputs or code in the notebook, as desired.
 
