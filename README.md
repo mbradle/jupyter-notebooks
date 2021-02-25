@@ -1,4 +1,4 @@
-# jupyter-notebooks
+# Introduction
 
 We are developing a number [Jupyter notebooks](https://jupyter.org) of possible interest for physics and astronomy.
 
@@ -12,7 +12,7 @@ Be sure to remove any suffix that is not *.ipynb* on any notebook file you downl
 
 If you run on your local computer, you may need to install [ffmpeg](https://www.ffmpeg.org).  You should be able to do that for your system through the [ffmpeg download](https://ffmpeg.org/download.html) site.
 
-**Available notebooks:**
+# Available notebooks:
 
 * [polarization.ipynb](https://raw.githubusercontent.com/mbradle/jupyter-notebooks/main/Notebooks/polarization.ipynb):  A Jupyter notebook to illustrate polarization in electromagnetic plane waves.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mbradle/jupyter-notebooks/blob/main/Notebooks/polarization.ipynb)
 
