@@ -16,4 +16,6 @@ If you run on your local computer, you may need to install [ffmpeg](https://www.
 
 * [polarization.ipynb](https://raw.githubusercontent.com/mbradle/jupyter-notebooks/main/Notebooks/polarization.ipynb):  A Jupyter notebook to illustrate polarization in electromagnetic plane waves.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mbradle/jupyter-notebooks/blob/main/Notebooks/polarization.ipynb)
 
+* [simple_normal_modes.ipynb](https://raw.githubusercontent.com/mbradle/jupyter-notebooks/main/Notebooks/simple_normal_modes.ipynb):  A Jupyter notebook to illustrate some simple normal mode problems.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mbradle/jupyter-notebooks/blob/main/Notebooks/simple_normal_modes.ipynb)
+
 
